@@ -1,4 +1,4 @@
-![logo](https://github.com/pranshulmashta/pranshulmashta/blob/main/1AeyDenyQaaHsg3p8lGmqA_b2198c7046b948b9a13e6c12b845aed4_Screen-Shot-2021-02-22-at-5.05.08-PM.png)
+![logo](https://analytics-smart.com/wp-content/uploads/2022/06/Data-Science1-1.gif)
 
 <h1 align="center">Hi, I'm Pranshul Mashta</h1>
 <h3 align="center">A passionate Data Analytics Professional from New Delhi, India.</h3>
