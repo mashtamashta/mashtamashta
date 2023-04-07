@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Pranshul Mashta</h1>
 <h3 align="center">A passionate Data Analytics Professional from New Delhi, India.</h3>
-<img align="right" alt="coding" width="400" src="https://www.arkatechture.com/hubfs/Data%20Flow%20Generic-gif-1.gif">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQHLXtKnrSowyg/article-cover_image-shrink_423_752/0/1615453560799?e=1686182400&v=beta&t=DEU4ufWWeNju4dSVqaqS6s23o-lH8C9sjut2MhE_8wo">
 - 🌱 I’m currently learning Python, MY SQL, MS Excel and Power BI.
 
 - 📫 How to reach me **pranshulmashta@gmail.com**
