@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQHLXtKnrSowyg/article-cover_image-shrink_423_752/0/1615453560799?e=1686182400&v=beta&t=DEU4ufWWeNju4dSVqaqS6s23o-lH8C9sjut2MhE_8wo">
 - 🌱 I’m currently learning Python, MY SQL, MS Excel and Power BI.
 
-- 📫 How to reach me **pranshul.mashta@gmail.com**
+- 📫 How to reach me **pranshulmashta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
